@@ -215,9 +215,9 @@ footer .footer_column p {
 }
 .footer_banner {
 	background-color: white;
-	padding-top: 60px;
-	padding-bottom: 60PX;
-	margin-bottom: 0px;
+	padding-top: 20px;
+	padding-bottom: 20PX;
+	margin-bottom: 9px;
 	background-repeat: repeat;
 }
 footer {
